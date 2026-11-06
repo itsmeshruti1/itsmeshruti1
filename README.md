@@ -29,7 +29,7 @@
 
 I’m a **Computer Science and Engineering (Data Science) undergraduate** at Dayananda Sagar Institutions and a **full-stack developer** based in Bengaluru. I build software across interfaces, APIs, and persistence layers, with an interest in how design decisions affect the people using and maintaining it.
 
-At AITurf, I contributed to a feature deployed on its live site and supported it through testing and documentation. My project work spans a recoverable local study timer, geospatial clustering for road-safety analysis, and a recruitment platform that uses AI for résumé matching and candidate ranking. I’ve also contributed a [merged UI fix to an open-source project](https://github.com/prashantbhudwal/slop-shame/pull/1).
+At AITurf, I contributed to a feature deployed on its live site and supported it through testing and documentation. My project work spans a recoverable local study timer, geospatial clustering for road-safety analysis, and a recruitment platform that uses AI for résumé matching and candidate ranking. I’ve also contributed to a few open source repositories.
 
 ### Open To
 
@@ -161,14 +161,9 @@ Supported feature development and release preparation for DigiVitalz at AITurf.
 | :---: | :--- |
 | **PyQuest** | First place in PyQuest, a coding challenge. |
 | **Smart India Hackathon 2026** | Qualified through the internal round. |
+| **National-Level Hackathon** | Our team placed among the top 70 out of 876 competing teams. |
 
 </div>
-
----
-
-## Certifications
-
-For credential inquiries, [email me](mailto:shrutitalikoti2007@gmail.com).
 
 ---
 
@@ -231,9 +226,10 @@ Learning:
   - Applied machine learning
 Building:
   - AI-powered talent acquisition workflows
+  - A supply chain disruption simulator that finds the lowest-cost recovery plan for a given on-time delivery target
 Exploring:
   - Open-source software
-  - Geospatial analytics and AI workflow orchestration
+  - Agentic AI workflows
 "Open To":
   - Software engineering and full-stack internships
   - Applied AI projects
