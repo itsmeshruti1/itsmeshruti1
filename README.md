@@ -23,11 +23,15 @@
 
 ---
 
-## About
+## A little about me
 
-I'm a CSE (Data Science) undergraduate in Bengaluru, working mainly with Python and JavaScript/TypeScript. I build web applications and enjoy figuring out the details behind them, from how data is stored to what happens when someone reloads halfway through a task.
+Hi, I’m **Shruti**! I’m a second-year Computer Science student specializing in Data Science at Dayananda Sagar Institutions, Bengaluru.
 
-Alongside my own projects, I've contributed to open source and worked on a live product at AITurf. I'm currently building a recruitment platform and exploring supply chain recovery.
+I enjoy breaking down problems, figuring out how things work under the hood, and turning ideas into something useful.
+
+During my internship at AITurf, I contributed to a live product, tested features, and wrote documentation. I enjoyed working on something beyond my own projects and seeing what goes into making a feature ready for people to use.
+
+Lately, I’ve been working on an AI-powered recruitment platform and a supply chain recovery simulator, exploring how AI can be used in practical applications. I’m also interested in open source and have contributed to a few repositories. I enjoy collaborating with others, sharing ideas, and learning along the way.
 
 ### Open To
 
@@ -132,7 +136,7 @@ LangGraph handles the AI workflow, FastAPI provides the backend, and the dashboa
 
 ## Experience
 
-### Intern · AITurf
+### Software Development Intern · AITurf
 
 **July–August 2026** · Remote, India
 
@@ -168,7 +172,7 @@ LangGraph handles the AI workflow, FastAPI provides the backend, and the dashboa
 
 ---
 
-## GitHub Analytics
+<!--## GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/itsmeshruti1"><img width="48%" src="https://github-stats-extended.vercel.app/api?username=itsmeshruti1&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=C4B5FD&amp;text_color=EDE9FE&amp;icon_color=8B5CF6" alt="GitHub profile statistics" /></a>
@@ -178,7 +182,7 @@ LangGraph handles the AI workflow, FastAPI provides the backend, and the dashboa
 </div>
 
 ---
-
+-->
 ## Current Focus
 
 ```yaml
@@ -203,7 +207,7 @@ Exploring:
 
 ---
 
-## Connect
+## Let's Connect
 
 <div align="center">
   <a href="mailto:shrutitalikoti2007@gmail.com">Email</a>
