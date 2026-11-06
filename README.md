@@ -41,13 +41,13 @@ Software engineering and full-stack internships · Applied AI and data science p
 
 ### Frontend
 
-[![React, Next.js, HTML, CSS, Bootstrap, jQuery, and Vite](https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,jquery,vite&theme=dark)](https://skillicons.dev)
+[![React, Next.js, HTML, CSS, Bootstrap, and jQuery](https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,jquery)](https://skillicons.dev)
 
 ### Backend & Databases
 
 [![Node.js, Express.js, FastAPI, Flask, and SQLite](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,sqlite&theme=dark)](https://skillicons.dev)
 
-`SQL` · `Firestore` · `IndexedDB`
+`SQL` 
 
 ### Cloud, DevOps & Tooling
 
@@ -195,19 +195,8 @@ Supported feature development and release preparation for DigiVitalz at AITurf.
 ## Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/itsmeshruti1#contribution-activity"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshruti1&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=8B5CF6&amp;point=DDD6FE&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity over the past 31 days" /></a>
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-  <a href="https://github.com/itsmeshruti1#contribution-activity">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsmeshruti1/itsmeshruti1/output/github-contribution-grid-snake-dark.svg" />
-      <img width="100%" src="https://raw.githubusercontent.com/itsmeshruti1/itsmeshruti1/output/github-contribution-grid-snake.svg" alt="Animated snake tracing Shruti's GitHub contributions" />
-    </picture>
+  <a href="https://github.com/itsmeshruti1">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshruti1&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=8B5CF6&amp;point=DDD6FE&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=GitHub%20Contribution%20Activity" alt="Shruti Talikoti’s GitHub contribution activity" />
   </a>
 </div>
 
@@ -240,13 +229,12 @@ Exploring:
   <a href="mailto:shrutitalikoti2007@gmail.com"><img src="https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFFFFF" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/shruti-talikoti-420001386/"><img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/itsmeshruti1"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub" /></a>
-  <a href="#featured-projects"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge" alt="Portfolio and featured projects" /></a>
+  <!--<a href="#featured-projects"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge" alt="Portfolio and featured projects" /></a>-->
 </div>
 
 ---
 
 <div align="center">
-  <p><em>Build for the people who use it and the engineers who maintain it.</em></p>
+  <!--<p><em>Build for the people who use it and the engineers who maintain it.</em></p>-->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer&amp;color=0:1E1B4B,55:4338CA,100:7C3AED" alt="" />
 </div>
-
