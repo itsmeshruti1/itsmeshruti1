@@ -179,22 +179,6 @@ LangGraph handles the AI workflow, FastAPI provides the backend, and the dashboa
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/itsmeshruti1"><img width="100%" src="https://trophy.benkou.dev/?username=itsmeshruti1&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=12&amp;margin-h=12" alt="GitHub profile trophies" /></a>
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-  <a href="https://github.com/itsmeshruti1"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeshruti1&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=8B5CF6&amp;point=DDD6FE&amp;area=true&amp;area_color=4C1D95&amp;hide_border=true&amp;custom_title=GitHub%20Contribution%20Activity" alt="Shruti Talikoti's GitHub contribution activity" /></a>
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
