@@ -16,11 +16,7 @@
     <a href="https://github.com/itsmeshruti1"><img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" alt="GitHub profile" /></a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=itsmeshruti1&amp;style=flat-square&amp;color=6D28D9&amp;label=PROFILE+VIEWS" alt="Profile views" />
-    <a href="https://github.com/itsmeshruti1?tab=followers"><img src="https://img.shields.io/github/followers/itsmeshruti1?style=flat-square&amp;label=FOLLOWERS&amp;labelColor=1E1B4B&amp;color=4338CA" alt="GitHub followers" /></a>
-    <a href="https://github.com/itsmeshruti1?tab=repositories"><img src="https://img.shields.io/github/stars/itsmeshruti1?style=flat-square&amp;label=STARS&amp;labelColor=1E1B4B&amp;color=6D28D9" alt="Stars earned across GitHub repositories" /></a>
-  </p>
+
 </div>
 
 ---
@@ -29,7 +25,7 @@
 
 I’m a **Computer Science and Engineering (Data Science) undergraduate** at Dayananda Sagar Institutions and a **full-stack developer** based in Bengaluru. I build software across interfaces, APIs, and persistence layers, with an interest in how design decisions affect the people using and maintaining it.
 
-At AITurf, I contributed to a feature deployed on its live site and supported it through testing and documentation. My project work spans a recoverable local study timer, geospatial clustering for road-safety analysis, and a recruitment platform that uses AI for résumé matching and candidate ranking. I’ve also contributed to a few open source repositories.
+At AITurf, I contributed to a feature deployed on its live site and supported it through testing and documentation. My project work spans a recoverable local study timer, geospatial clustering for road-safety analysis, and a recruitment platform that uses AI for résumé matching and candidate ranking. I’ve also contributed to few open source repositories.
 
 ### Open To
 
